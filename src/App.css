@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+body {
+  margin: auto;
+  width: 50%;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  width: 100%;
+  text-align: center;
+  font-family: fantasy;
+  padding: 20px 0 0 0;
+  margin: 0px;
+}
+
+p.prize {
+  font-size: 35px;
+  font-weight: bold;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: red;
+  margin: 0;
+}
+
+div.container {
+  border: 10px solid red;
+  border-radius: 50px;
+  margin-top: 50px;
+}
+
+label {
+  font-weight: bold;
+  color: red;
+  font-size: 30px;
+}
+
+form {
+  margin: 30px;
+}
